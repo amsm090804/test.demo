@@ -16,7 +16,7 @@
             <div class="wcd wcd-tuto"> < Come back to the tuto page</div>
         </a>
         <a href="http://webcodo.com">
-            <div class="wcd wcd-logo">WEBCODzxczxcxzcxzcxzcxczczxcO</div>
+            <div class="wcd wcd-logo">WEBCODzxczxcxzcxzcxzcxczczxfdfsfcO</div>
         </a>
         <div class="wcd"></div>
     </div>
